@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 <p align="center"><a href="https://laravel.com" target="_blank"><img src="https://raw.githubusercontent.com/laravel/art/master/logo-lockup/5%20SVG/2%20CMYK/1%20Full%20Color/laravel-logolockup-cmyk-red.svg" width="400" alt="Laravel Logo"></a></p>
 
 <p align="center">
@@ -64,3 +65,7 @@ If you discover a security vulnerability within Laravel, please send an e-mail t
 ## License
 
 The Laravel framework is open-sourced software licensed under the [MIT license](https://opensource.org/licenses/MIT).
+=======
+# Bulk-Beam-Construction-Management-System
+A web-based construction management system designed to streamline project planning, resource allocation, and workflow tracking. Built with a modern frontend using HTML, CSS, and JavaScript, and a backend powered by Django, the system helps manage construction operations efficiently.
+>>>>>>> 05d3560796ef1719d5957b0255caf42a0d6a392b
